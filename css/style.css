@@ -69,8 +69,8 @@ body {
 
 .getstarted-button:hover {
   text-decoration: none;
-  color: white;
-  background-color: #3db2ed;
+  color: #3db2ed;
+  background: white;
 }
 
 h2 {
